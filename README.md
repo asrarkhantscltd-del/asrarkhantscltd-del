@@ -2,11 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF00E5&height=240&section=header&text=ASRAR%20KHAN&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=AI%20and%20Automation%20Engineer%20-%20Full-Stack%20Developer%20-%20Security%20Industry%20Tech&descSize=18&descAlignY=60" width="100%" alt="Asrar Khan banner" />
 
-<a href="https://github.com/asrarkhantscltd-del"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=860&height=50&lines=Building+AI+%26+Automation+for+regulated+industries;Full-Stack+%7C+React+%7C+Node+%7C+PostgreSQL+%7C+Docker;n8n+%C2%B7+MCP+Servers+%C2%B7+RAG+%C2%B7+Local+AI;BS+7858+%C2%B7+UK+GDPR+%C2%B7+SIA+%C2%B7+IOSH+Certified;Based+in+Slough%2C+United+Kingdom" alt="Typing animation" /></a>
+<a href="https://github.com/asrarkhantscltd-del"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=860&height=50&lines=Building+AI+%26+Automation+for+regulated+industries;Full-Stack+%7C+React+%7C+Node+%7C+PostgreSQL+%7C+Docker;n8n+%C2%B7+MCP+Servers+%C2%B7+RAG+%C2%B7+Local+AI;BS+7858+%C2%B7+UK+GDPR+%C2%B7+SIA+%C2%B7+IOSH+Certified" alt="Typing animation" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LOCATION-SLOUGH%2C%20UK-00F5FF?style=for-the-badge&labelColor=0D1117" alt="Location" />
 <img src="https://img.shields.io/badge/IOSH-CERTIFIED-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="IOSH" />
 <a href="https://guardtec-security.co.uk"><img src="https://img.shields.io/badge/GUARDTEC-IT%20%7C%20HR%20%7C%20VETTING-FF00E5?style=for-the-badge&labelColor=0D1117" alt="GuardTec" /></a>
 <a href="mailto:asrar.khan19@gmail.com"><img src="https://img.shields.io/badge/FREELANCE-AVAILABLE-39FF14?style=for-the-badge&labelColor=0D1117" alt="Freelance" /></a>
@@ -17,7 +16,7 @@
 
 ## 👾 About Me
 
-I am a **Full-Stack Developer and AI/Automation Engineer** based in **Slough, UK**, bridging **software engineering** and **regulated industry operations**.
+I am a **Full-Stack Developer and AI/Automation Engineer**, bridging **software engineering** and **regulated industry operations**.
 
 My work spans enterprise compliance platforms, full-stack web apps, n8n automation, custom MCP servers and private local AI. I hold multiple roles at **GuardTec Security and Patrol UK Ltd** (IT Analyst, HR Officer and Vetting Officer), which gives me first-hand expertise in **BS 7858, SIA licensing, UK GDPR and Right to Work** compliance.
 
